@@ -1,0 +1,6 @@
+[submodule "esm2_t6_8M_UR50D"]
+	path = esm2_t6_8M_UR50D
+	url = https://huggingface.co/facebook/esm2_t6_8M_UR50D
+[submodule "esm2_t12_35M_UR50D"]
+	path = esm2_t12_35M_UR50D
+	url = https://huggingface.co/facebook/esm2_t12_35M_UR50D/
